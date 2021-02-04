@@ -7,9 +7,6 @@ import sklearn
 from sklearn import linear_model
 import pickle
 # pickle for saving object structures in python
-import matplotlib
-import matplotlib.pyplot as pyplot
-from matplotlib import style
 from math import fabs
 from math import pow
 # matplotlib is for mathematical representation(statistics & calculus) , using animated/static visualizations
